@@ -97,10 +97,7 @@ Proper error handling and status codes are implemented.
 ###### Video Walkthrough
 <iframe src="https://drive.google.com/file/d/1Q9OeoVskKj95ATjyeDgKKYPmFuCTX9Qv/preview" width="640" height="480"></iframe>
 
-
-###### Resources
-Sequelize Documentation
-PostgreSQL Documentation
-Express.js Documentation
+###### Resources/ Credit
+SMU Bootcamp Starter code
 ###### Author
 Developed by Nancy Ramon. For questions or feedback, please contact me at nramon513@gmail.com.
