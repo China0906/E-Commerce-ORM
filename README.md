@@ -33,6 +33,7 @@ Establish associations between products, categories, and tags to reflect real-wo
 Robust API Design:
 
 Utilize RESTful API principles to ensure scalability and maintainability.
+
 ##### Technologies Used
 Node.js: For building the server-side environment.
 Express.js: For creating the API framework.
@@ -52,7 +53,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone <repository-url>
+git clone <https://github.com/China0906/E-Commerce-ORM>
 cd <repository-folder>
 Install dependencies:
 
@@ -92,8 +93,9 @@ The database schema reflects proper table relationships (e.g., one-to-many, many
 API endpoints are functional for categories, products, and tags.
 Data can be created, read, updated, and deleted (CRUD operations).
 Proper error handling and status codes are implemented.
+
 ###### Video Walkthrough
-Click here to view the walkthrough video.
+<iframe src="https://drive.google.com/file/d/1Q9OeoVskKj95ATjyeDgKKYPmFuCTX9Qv/preview" width="640" height="480"></iframe>
 
 
 ###### Resources
